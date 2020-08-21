@@ -16,7 +16,7 @@ $ sudo apt-get install python3.6.9
 #
 Installing pip3 
 
-if python-v<3, then use "python" instaed of "python3"
+if python-v<3, then use "python" instead of "python3"
 
 $ python3 get-pip.py
 #
